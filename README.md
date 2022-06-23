@@ -6,3 +6,4 @@ gym 설치시 버전은 0.17.3으로 할 것.
     python3 chain_test.py
     python3 lava_test.py
 # DSRL_PROJCET
+# class_DSRL_projcet
